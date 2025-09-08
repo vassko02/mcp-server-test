@@ -1,2 +1,5 @@
 test
 Ezt a szöveget a github mcp irta ide
+Ez egy új sor a dev branch-hez.
+Még egy teszt sor.
+Harmadik sor a dev branch teszthez.
